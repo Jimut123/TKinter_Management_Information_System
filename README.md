@@ -3,7 +3,7 @@ A basic excel application
 
 #### The picture of the opening GUI application of the MIS
 
-Here you could perfor various tasks of a general MIS database application.
+Here you could perform various tasks of a general MIS database application.
 
 ![The loading of data](/img/1_opening.png)
 
