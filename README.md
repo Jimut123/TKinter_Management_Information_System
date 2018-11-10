@@ -61,3 +61,4 @@ The picture of the general MIS queries you can perform according to the common s
 
 ![The loading of data](/img/12_quit.png)
 
+Author : [Jimut Bahan Pal](https://www.linkedin.com/in/jimut-bahan-pal-156862123/)
