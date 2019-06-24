@@ -1,4 +1,5 @@
 # A BASIC EXCEL APPLICATION 
+[![DOI](https://zenodo.org/badge/156406516.svg)](https://zenodo.org/badge/latestdoi/156406516)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
