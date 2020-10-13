@@ -1,9 +1,8 @@
 '''
 This module provides the Database Operations for the MIS part 2 
 
-@Copyright :: Don't share this software without the permission of the author
-
 e-mail : jimutbahanpal@yahoo.com
+website : https://jimut123.github.io/
 
 '''
 
