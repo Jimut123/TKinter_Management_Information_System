@@ -1,15 +1,11 @@
 '''
 This module provides the loading of data from the xls file provided to the database directly, for the MIS 
-
-@Copyright :: Don't share this software without the permission of the author
+This module directly imports data from the spreadsheet or xls file to the database so that no manual insertion is required!
 
 e-mail : jimutbahanpal@yahoo.com
+website : https://jimut123.github.io/
 
-'''
 
-
-'''
-This module directly imports data from the spreadsheet or xls file to the database so that no manual insertion is required!
 '''
 
 # to make the xlrd object
