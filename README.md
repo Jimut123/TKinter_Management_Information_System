@@ -67,4 +67,18 @@ The picture of the general MIS queries you can perform according to the common s
 
 ![The loading of data](/img/12_quit.png)
 
+
+
+## [LICENSE](https://github.com/Jimut123/basic_excel_app/blob/master/LICENSE)
+```
+ GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2019-20 Jimut Bahan Pal, <https://jimut123.github.io/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+```
+
+
+
 Author : [Jimut Bahan Pal](https://www.linkedin.com/in/jimut-bahan-pal-156862123/)
