@@ -1,4 +1,4 @@
-# A BASIC EXCEL APPLICATION 
+# Management Information System using TKinter in Python3
 [![DOI](https://zenodo.org/badge/156406516.svg)](https://zenodo.org/badge/latestdoi/156406516)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
